@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anis Bengaji</h1>
 <h3 align="center">I'm a third-year IT student with a strong interest in cybersecurity, networking, and system security. My goal is to build a career in offensive security, mastering penetration testing and threat analysis</h3>
 
-- 📫 Let's Connect! **Bengaji.anis@gmail.com**
+- 📫 Let's Connect! **bengaji.anis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
