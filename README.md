@@ -1,5 +1,9 @@
-# 💫 About Me:
 ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjgzZDBpZHp4eTA0ZHl1OXN6bmd6bGFpbGVoMzdhcXQ1cHhzdXdhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+
+
+# 💫 About Me:
+
 I'm a third-year IT student with a strong interest in cybersecurity, networking, and system security.
 
 
