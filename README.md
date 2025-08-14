@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-I'm a third-year IT student with a strong interest in cybersecurity, networking, and system security.
+I'm a Fourth year IT student with a strong interest in cybersecurity, networking, and system security.
 
 
 ## 🌐 Socials:
